@@ -1,20 +1,12 @@
-﻿## Interface: 50200
-
-
+## Interface: 50400
 ## Title: GridStatusHealthPercent
-
 ## Notes: Grid health status returned as a percent.
-
-## Author: Updated by Szandos, original code by Irezumi
-
-## Version: 1.3.1
+## Author: Updated by Resike and Szandos, original code by Irezumi
+## Version: 2.0.0
 ## Dependencies: Grid
-
 ## X-Website: http://wowace.com/wiki/Grid
-
 ## X-Category: UnitFrame
-
 ## X-GridStatusModule: GridStatusHealthPercent
-GridStatusHealthPercent_locale.lua
 
+GridStatusHealthPercent_locale.lua
 GridStatusHealthPercent.lua
