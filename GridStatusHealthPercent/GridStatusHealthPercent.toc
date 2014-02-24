@@ -1,0 +1,13 @@
+﻿## Interface: 20400
+## Title: GridStatusHealthPercent
+## Notes: Grid health status returned as a percent.
+## Author: Irezumi
+## Version: 0.1
+## Grid Author: Pastamancer & Maia
+## Dependencies: Grid
+## X-Website: http://wowace.com/wiki/Grid
+## X-Category: UnitFrame
+## X-GridStatusModule: GridStatusHealthPercent
+
+GridStatusHealthPercent_locale.lua
+GridStatusHealthPercent.lua
