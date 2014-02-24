@@ -1,15 +1,12 @@
-﻿local L = AceLibrary("AceLocale-2.2"):new("GridStatusHealthPercent")
+﻿local L = {}
+L["More Health"] = "More Health"
+L["Health Percent"] = "Health Percent"
+L["Health threshold"] = "Health threshold"
+L["Only show percent above % damage."] = "Only show percent above % damage."
+L["Use class color"] = "Use class color"
+L["Color percent based on class."] = "Color percent based on class."
+L["Shift colors"] = "Shift colors"
+L["Color percent based on damage."] = "Color percent based on damage."
 
-L:RegisterTranslations("enUS", function()
-	return {
-	    ["More Health"] = true,
-		["Health Percent"] = true,
-		["Health threshold"] = true,
-		["Only show percent above % damage."] = true,
-		["Use class color"] = true,
-		["Color percent based on class."] = true,
-        ["Shift colors"] = true,
-        ["Color percent based on damage."] = true,		
-	}
-end)
+GridStatusHealthPercentLocale = L		
 
